@@ -1,14 +1,14 @@
-package com.example.Farmacy;
+package com.example.Pharmacy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FarmacyApplication {
+public class PharmacyApplication {
 
 	public static void main(String[] args) {
 
-		SpringApplication.run(FarmacyApplication.class, args);
+		SpringApplication.run(PharmacyApplication.class, args);
 	}
 
 }
