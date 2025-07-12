@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="929f1ec6-d6c8-4d23-bda9-1731ab53eb4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Config/Security.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Config/Security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Model/AppUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Model/AppUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Model/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Model/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Repository/CustomeUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Repository/CustomeUserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Repository/UserRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Repository/UserRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Service/CustomUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Pharmacy/src/main/java/com/example/Pharmacy/Service/CustomUserDetailsService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2zlEdKlg4ui6K3BMlzHG5WkWJo2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PharmacyApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "userauthentication",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="PharmacyApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.Pharmacy.PharmacyApplication" />
@@ -19,5 +68,16 @@
         <item itemvalue="Application.PharmacyApplication" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="929f1ec6-d6c8-4d23-bda9-1731ab53eb4f" name="Changes" comment="" />
+      <created>1752297346883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752297346883</updated>
+    </task>
+    <servers />
   </component>
 </project>
